@@ -3,7 +3,7 @@
   name: SANReN Cyber Security Challenge 2018
   #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  #quote: >
-  #  Short overview of the project (optional)
+  quote: >
+    CTF styled cyber security challange
   description: | # this will include new lines to allow paragraphs
     Was apart of a team where we completed tasks in a CTF style, where we had to use techniques like reverse engineering, steganography and web exploits to attain flags.
