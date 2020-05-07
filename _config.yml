@@ -33,10 +33,10 @@ projects_title: Competitions #(Use this to override about projects section title
 # More Section
 more_title: Interests #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
- Gaming |
- Astronomy |
- History |
- Computer Security
+ * Gaming
+ * Astronomy
+ * History
+ * Computer Security
 
 # Footer
 footer_show_references: false
