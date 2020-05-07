@@ -1,5 +1,5 @@
 # Site
-repository: Pavlo-Andrianatos/modern-resume-theme #Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. Pavlo-Andrianatos/modern-resume-theme)
+repository: Pavlo-Andrianatos/modern-resume-theme
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -11,41 +11,19 @@ email: u17173389@tuks.co.za
 darkmode: false
 
 # Social links
-github_username:  Pavlo-Andrianatos
+github_username: Pavlo-Andrianatos
 linkedin_username: pavlo-a-8b4b49112
-
-# Additional icon links
-#additional_links:
-#- title: Link name
-#  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
   I am a final year Computer Science student studying at the University of Pretoria. I have an interest in technology and science, I am eager to learn new 
   technologies and acquire new skills to tackle new and intersting problems.
-  
-#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-#    - Lists
-#    - Tables
-#    - <a href="google.com">Links</a>
-#    - Images
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
- -BSc Computer Science 2017 - 2020
+ -BSc Computer Science 2017-2020
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
@@ -58,10 +36,6 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: Interests #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-
  -Gaming
  -Astronomy
  -History
