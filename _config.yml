@@ -24,25 +24,25 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 education_content: |
-BSc Computer Science 2017 to 2020
+ BSc Computer Science 2017 to 2020
 
 # Experience Section
 # experience_title: Experience #(Use this to override about experience section title)
 experience_content: |
-Web development 2019
+ Web development 2019
 
 # Competitions Section
 # competitions_title: Competitions #(Use this to override about projects section title)
 competitions_content: |
-SANReN Cyber Security Challenge 2018
+ SANReN Cyber Security Challenge 2018
 
 # More Section
 # more_title: Interests #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
- -Gaming
- -Astronomy
- -History
- -Computer Security
+ Gaming
+ Astronomy
+ History
+ Computer Security
 
 # Footer
 footer_show_references: false
