@@ -18,8 +18,8 @@ linkedin_username: pavlo-a-8b4b49112
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  I am a final year Computer Science student studying at the University of Pretoria. I have an interest in technology and science, I am eager to learn new 
-  technologies and acquire new skills to tackle new and intersting problems.
+  I am a final year Computer Science student studying at the University of Pretoria. I have an interest in technology and science, I am |
+  eager to learn new technologies and acquire new skills to tackle new and intersting problems.
 
 # Education Section
 # education_title: Education #(Use this to override about education section title)
