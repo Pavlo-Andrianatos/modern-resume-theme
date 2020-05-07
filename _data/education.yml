@@ -7,8 +7,8 @@
     Skills Acquired
   description: | # this will include new lines to allow paragraphs
     * Software Development: The planning development and deployment of software systems.
-    * Web Development
-    * Data Structures
-    * Compiler Construction
-    * Databse Handling
-    * Network Handling
+    * Web Development: Using html, css, js to desing websites. Using php to interact with databses and ajax calls to apis. Nodejs to handle the back end.
+    * Data Structures: Learning robust and efficient data structures to development fast and efficient code.
+    * Compiler Construction: Design and code a compiler to compile one language to another in Java.
+    * Databse Handling: Experience with MySQL, Postgres, NoSQL databases, Object Oriented databases.
+    * Network Handling: Handle communication across networks allowing devices/programs to communicate.
