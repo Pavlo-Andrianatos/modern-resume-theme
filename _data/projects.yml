@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
-  name: SANReN Cyber Security Challenge 2018
-  #link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  name: SANReN Cyber Security Challenge 2019
+  link: https://ctfd.cybersecuritychallenge.ac.za/
   #github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
   quote: >
     CTF styled cyber security challange
