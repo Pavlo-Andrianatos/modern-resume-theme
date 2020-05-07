@@ -6,9 +6,9 @@
   quote: >
     Skills Aquired
   description: | # this will include new lines to allow paragraphs
-    ..* Software Development
-    Web Development
-    Data Structures
-    Compiler Construction
-    Databse Handling
-    Network Handling
+    * Software Development
+    * Web Development
+    * Data Structures
+    * Compiler Construction
+    * Databse Handling
+    * Network Handling
